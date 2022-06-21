@@ -25,24 +25,10 @@
 #1. clone this project
 ~ git clone https://github.com/letnagao/website-using-sass.git
 #2. cd into it
-~ cd website-using-sass
-#3. install serevr dependencies
-~ npm i
-#3. install client dependencies
-~ cd client && npm i
-#4. run app (both client & server)
-~ npm run dev
+~ cd  website-using-sass
+#3. start the project from index.html
 ```
-*available scripts*
-```bash
-~ npm run client
-~ npm run server
-~ npm run build
-~ npm run dev
-~ npm start
-~ npm run heroku-postbuild
-```
-  
+
 </details>
 
 ## Disclamer ❗️
