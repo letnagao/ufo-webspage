@@ -1,0 +1,26 @@
+@import 'colors';
+
+%align-center {
+    display: flex;
+    align-items: center;
+}
+
+.navbar {
+    background: $lime;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5rem calc((100vw - 1200px) /2);
+    z-index: 10;
+    position: relative;
+
+    &__logo {
+        color: $dark;
+        cursor: pointer;
+        text-decoration: none;
+        font-size: 2rem;
+        margin-left: 24px;
+        @extend %align-center;
+    }
+}
+
