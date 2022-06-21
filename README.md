@@ -11,8 +11,9 @@
 
 </ul><h2> Preview ⚡️</h2>
 <p align="center">
-  <video src="" />
+  <video src="https://user-images.githubusercontent.com/99754900/174701054-ef0a52b2-40ae-47cf-9f5f-026981f9808e.mp4" />
 </p>
+
 
 ## Technologies used 🛠️
 **Design**: *HTML, Sass & Scss*<br />
@@ -26,7 +27,7 @@
 ~ git clone https://github.com/letnagao/website-using-sass.git
 #2. cd into it
 ~ cd  website-using-sass
-#3. start the project from index.html
+#3. install the extension "Live Sass Compiler" and start the project from index.html or "Go Live" extension
 ```
 
 </details>
