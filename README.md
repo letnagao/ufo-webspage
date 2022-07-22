@@ -1,12 +1,12 @@
 ## UFO Website 🎯
  Build a responsive website using HTML, Sass/Scss!
  
-![Language count](https://img.shields.io/github/languages/count/letnagao/website-using-sass?color=green)
-![Top language](https://img.shields.io/github/languages/top/letnagao/website-using-sass?color=ff69b4)
-![Repo size](https://img.shields.io/github/repo-size/letnagao/website-using-sass?color=yellow)
-![Commit Activity](https://img.shields.io/github/commit-activity/y/letnagao/website-using-sass?color=blue)
-![Latest commit](https://img.shields.io/github/last-commit/letnagao/website-using-sass?color=red)
-[![GitHub watchers](https://img.shields.io/github/watchers/letnagao/website-using-sass?logo=GitHub)](https://github.com/letnagao/website-using-sass/watchers)
+![Language count](https://img.shields.io/github/languages/count/letnagao/ufo-webspage?color=green)
+![Top language](https://img.shields.io/github/languages/top/letnagao/ufo-webspage?color=ff69b4)
+![Repo size](https://img.shields.io/github/repo-size/letnagao/ufo-webspage?color=yellow)
+![Commit Activity](https://img.shields.io/github/commit-activity/y/letnagao/ufo-webspage?color=blue)
+![Latest commit](https://img.shields.io/github/last-commit/letnagao/ufo-webspage?color=red)
+[![GitHub watchers](https://img.shields.io/github/watchers/letnagao/ufo-webspage?logo=GitHub)](https://github.com/letnagao/ufo-webspage/watchers)
 ![Maintained](https://img.shields.io/maintenance/yes/9999)
 
 </ul><h2> Preview ⚡️</h2>
@@ -24,9 +24,9 @@
 
 ```bash
 #1. clone this project
-~ git clone https://github.com/letnagao/website-using-sass.git
+~ git clone https://github.com/letnagao/ufo-webspage.git
 #2. cd into it
-~ cd  website-using-sass
+~ cd  ufo-webspage
 #3. install the extension "Live Sass Compiler" and start the project from index.html or "Go Live" extension
 ```
 
