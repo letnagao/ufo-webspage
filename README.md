@@ -1,4 +1,4 @@
-## Website using sass 🎯
+## UFO Website 🎯
  Build a responsive website using HTML, Sass/Scss!
  
 ![Language count](https://img.shields.io/github/languages/count/letnagao/website-using-sass?color=green)
