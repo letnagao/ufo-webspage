@@ -9,11 +9,9 @@
 [![GitHub watchers](https://img.shields.io/github/watchers/letnagao/ufo-webspage?logo=GitHub)](https://github.com/letnagao/ufo-webspage/watchers)
 ![Maintained](https://img.shields.io/maintenance/yes/9999)
 
-</ul><h2> Preview ⚡️</h2>
-<p align="center">
-  <video src="https://user-images.githubusercontent.com/99754900/174701054-ef0a52b2-40ae-47cf-9f5f-026981f9808e.mp4" />
-</p>
+## App preview ⚡️
 
+[![Demo](screenshots/thumbnail.png)](https://user-images.githubusercontent.com/99754900/174701054-ef0a52b2-40ae-47cf-9f5f-026981f9808e.mp4)
 
 ## Technologies used 🛠️
 **Design**: *HTML, Sass & Scss*<br />
