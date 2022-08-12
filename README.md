@@ -13,10 +13,14 @@
 
 [![Demo](screenshots/thumbnail.png)](https://user-images.githubusercontent.com/99754900/174701054-ef0a52b2-40ae-47cf-9f5f-026981f9808e.mp4)
 
-## Technologies used 🛠️
-**Design**: *HTML, Sass & Scss*<br />
+</ul><h2>Technologies Used 🛠️</h2>
+<ul>
+<li>HTML</li>
+</ul><ul>
+<li>Sass</li>
+</ul><ul>
 
-## Usage 📋
+</ul><h2>Usage 📋</h2>
 <details open>
 <summary>1. Server Setup</summary>
 
